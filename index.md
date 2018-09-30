@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Iteration.tools 
+A easy way to support the [iteration podcast](http://www.iterationpodcast.com/) - This site lists many of our favorite tools / vendors. The best part - for most of these vendors - you get a discount and we get something in return. Most of the time it's just credits on our account, with some we may get a small kick back on signups. Also, feel free to just go use the services outside these referal links - a lot of great tools and services here. 
 
-You can use the [editor on GitHub](https://github.com/Johnsalzarulo/iteration.tools/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### [AppSignal](https://appsignal.com/r/db6db3b660) `$100 in Free Credits`
+Track errors, performance, hosts & custom metrics in your rails apps. Recomended by John. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Sticker Mule](https://www.stickermule.com/unlock?ref_id=8460460701) `$10 Off`
+Used them a bunch of times for random sticker projects. Recomended by John. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Johnsalzarulo/iteration.tools/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
