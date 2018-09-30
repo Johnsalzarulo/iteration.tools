@@ -12,3 +12,6 @@ Used them a bunch of times for random sticker projects. Recomended by John.
 
 ### [One Month](https://mbsy.co/onemonth/41557375) - `10% off any course`
 You can learn the foundations of Python, Javascript, or Ruby in just 30 days. A great site for deep dive development training for newer coders. This is one of the first tutorials that John ever went through. 
+
+## [Donate to the Show](https://simplecast.com/donate/3826) 😎
+If you live in the US and donate over $5 we'll mail you som kick ass stickers too! 
