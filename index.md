@@ -11,4 +11,4 @@ I use Semaphore for Continuous Integration in projects. Recomended by John.
 Used them a bunch of times for random sticker projects. Recomended by John. 
 
 ### [One Month](https://mbsy.co/onemonth/41557375) `10% off any course`
-A great site for deep dive development training for newer coders. This is one of the first tutorials that John ever went through. 
+You can learn the foundations of Python, Javascript, or Ruby in just 30 days. A great site for deep dive development training for newer coders. This is one of the first tutorials that John ever went through. 
